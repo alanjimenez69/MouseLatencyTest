@@ -48,3 +48,10 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+# Ignorar archivos compilados
+dist/
+build/
+__pycache__/
+*.exe
+*.spec
