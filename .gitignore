@@ -1,0 +1,6 @@
+# Ignorar archivos compilados
+dist/
+build/
+__pycache__/
+*.exe
+*.spec
